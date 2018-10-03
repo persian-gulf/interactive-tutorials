@@ -1,4 +1,5 @@
- <h1 dir="rtl" >""بسم الله الرحمن الرحیم""</h1>
+<h5 dir="rtl"> </h5>
+<h1 dir="rtl" >""بسم الله الرحمن الرحیم""</h1>
  
  <h3 dir="rtl" >آموزش های تعاملی</h3>
 
@@ -19,21 +20,23 @@
 * [learnrubyonline.org](https://www.learnrubyonline.org)
 * [learn-golang.org](https://www.learn-golang.org)
 
-Please feel free to contribute your tutorials or exercises by sending a pull request and adding yourself on the list.
-<h6 dir="rtl" >لطفا با ارسال درخواست پیگیری و افزودن خودتان در لیست، به نوشتن مطالب و تمرینات خود کمک کنید.</h6>
-Developers will require the programming language Python https://www.python.org/ and the web framework Flask http://flask.pocoo.org/ installed in order to use this repository.
+<h4 dir="rtl">لطفا با ارسال درخواست پیگیری و افزودن خودتان در لیست، به نوشتن مطالب و تمرینات خود کمک کنید.</h4>
 
-The web server will locally compile and load all Markdown files into memory. The development version of the web server
-requires that you specify the domain you are working on, e.g.:
+<h5 dir="rtl">  توسعه دهندگان به زبان برنامه نویسی پایتون نیاز دارند و چارچوب وب فلکس برای استفاده از این مخزن نصب شده است. </h5>
+<h5 dir="rtl">[پایتون](https://www.learnrubyonline.org)</h5>
+<h5 dir="rtl">[فلکس](https://www.learn-golang.org)</h5>
+
+
+<h5 dir="rtl">وب سرور به صورت محلی کامپایل و بارگذاری تمام فایل های مارک دوون را به حافظه میفرستد. نسخه توسعه وب سرور 31 مستلزم آن است که دامنه ای را که در حال کار بر روی آن هستید را مشخص کنید، به عنوان مثال: </h5>
 
     python main.py -d learnpython.org
     
-By default, the server process will run at http://localhost:5000
+<h5 dir="rtl"> به طور پیشفرض، سرور اجرا خواهد شد در  </h5>
 
-Contributors
-============
-superreg
+ http://localhost:5000
+<h1 dir="rtl"> همکاران </h1>
+<h2 dir="rtl" > ===================== </h2>
 
-JBoy Advance
-
-qwong95
+<h5 dir="rtl" > superreg </h5>
+<h5 dir="rtl" > JBoy Advance </h5>
+<h5 dir="rtl" > qwong95 </h5>
