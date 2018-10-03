@@ -1,20 +1,19 @@
-Tutorial
---------
+<h2 dir="rtl"> آموزش </h2>
+<h4 dir="rtl"> -------- </h4>
 
-This page is empty. You are welcome to contribute the content by sending me a pull request:
-
-[[https://github.com/ronreiter/interactive-tutorials]]
-
-Exercise
---------
-
-This page does not have an exercise yet. You are welcome to contribute one by sending me a pull request:
+<h5 dir="rtl"> این یک صفحه خالی است. شما می توانید از طریق ارسال یک درخواست با ما همراه باشید. </h5>
 
 [[https://github.com/ronreiter/interactive-tutorials]]
 
+<h2 dir="rtl"> تمرین  <h2>
+<h4 dir="rtl"> -------- </h4>
 
-Tutorial Code
--------------
+<h4 dir="rtl"> این صفحه هنوز تمرین  ندارد با فرستادن یک درخواست استقبال می توانید با کمک یکی از آنها شرکت کنید: </h4>
+
+[[https://github.com/ronreiter/interactive-tutorials]]
+
+<h2 dir="rtl"> کد درس </h2>
+<h4 dir="rtl"> -------- </h4>
 
     <!DOCTYPE html>
     <html>
@@ -24,8 +23,8 @@ Tutorial Code
         </body>
     </html>
     
-Expected Output
----------------
+<h2 dir="rtl"> خروجی </h2>
+<h4 dir="rtl"> -------- </h4>
 
     <!DOCTYPE html>
     <html>
