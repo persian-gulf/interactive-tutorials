@@ -34,7 +34,6 @@
         </body>
     </html>
 
-Solution
 <h2 dir="rtl"> راه حل:</h2>
 
     <!DOCTYPE html>
