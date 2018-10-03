@@ -5,15 +5,14 @@
 
 [[https://github.com/ronreiter/interactive-tutorials]]
 
-<h2 dir="rtl"> تمرین  <h2>
-<h4 dir="rtl"> -------- </h4>
+<h2 dir="rtl"> تمرین:  <h2>
+
 
 <h4 dir="rtl"> این صفحه هنوز تمرین  ندارد با فرستادن یک درخواست استقبال می توانید با کمک یکی از آنها شرکت کنید: </h4>
 
 [[https://github.com/ronreiter/interactive-tutorials]]
 
-<h2 dir="rtl"> کد درس </h2>
-<h4 dir="rtl"> -------- </h4>
+<h2 dir="rtl"> کد درس: </h2>
 
     <!DOCTYPE html>
     <html>
@@ -23,8 +22,7 @@
         </body>
     </html>
     
-<h2 dir="rtl"> خروجی </h2>
-<h4 dir="rtl"> -------- </h4>
+<h2 dir="rtl"> خروجی:</h2>
 
     <!DOCTYPE html>
     <html>
@@ -37,7 +35,7 @@
     </html>
 
 Solution
---------
+<h2 dir="rtl"> راه حل:</h2>
 
     <!DOCTYPE html>
     <html>
