@@ -1,9 +1,12 @@
-Interactive Tutorials
-=====================
+ <h1 dir="rtl" >""بسم الله الرحمن الرحیم""</h1>
+ 
+ <h3 dir="rtl" >آموزش های تعاملی</h3>
 
-This is the open source repository for the free interactive tutorial websites:
+ <h3 dir="rtl" > ===================== </h3>
 
-* [learnpython.org](https://www.learnpython.org)
+ <h3 dir="rtl" >این مخزن منبع باز برای وب سایت های آموزش تعاملی رایگان است:</h3>
+ 
+* [learnpython.org](https://www.learnpython.org) 
 * [learnjavaonline.org](https://www.learnjavaonline.org)
 * [learn-html.org](https://www.learn-html.org)
 * [learn-c.org](https://www.learn-c.org)
@@ -17,7 +20,7 @@ This is the open source repository for the free interactive tutorial websites:
 * [learn-golang.org](https://www.learn-golang.org)
 
 Please feel free to contribute your tutorials or exercises by sending a pull request and adding yourself on the list.
-
+<h6 dir="rtl" >لطفا با ارسال درخواست پیگیری و افزودن خودتان در لیست، به نوشتن مطالب و تمرینات خود کمک کنید.</h6>
 Developers will require the programming language Python https://www.python.org/ and the web framework Flask http://flask.pocoo.org/ installed in order to use this repository.
 
 The web server will locally compile and load all Markdown files into memory. The development version of the web server
