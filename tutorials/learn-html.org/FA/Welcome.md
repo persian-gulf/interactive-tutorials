@@ -12,14 +12,6 @@ The advanced tutorials will guide you through all there is to know regarding HTM
 ### <h3 dir="rtl"> شروع با HTML و CSS <h3>
 <h6 dir="rtl"> - [[سلام, دنیا]] <h6>
 <h6 dir="rtl"> - [[عناصر پایه]] <h6>
-
-<h6 dir="rtl">  <h6>
-<h6 dir="rtl">  <h6>
-<h6 dir="rtl">  <h6>
-<h6 dir="rtl">  <h6>
-<h6 dir="rtl">  <h6>
-<h6 dir="rtl">  <h6>
-<h6 dir="rtl">  <h6>
 <h6 dir="rtl"> - [[لینک ها]] <h6>
 <h6 dir="rtl"> - [[لیست ها]] <h6>
 <h6 dir="rtl"> - [[تصاویر]] <h6>
@@ -36,14 +28,20 @@ The advanced tutorials will guide you through all there is to know regarding HTM
 <h6 dir="rtl"> - [[طرح جعبه ای]] <h6>
 <h6 dir="rtl"> - [[آیکون ها]] <h6>
 
-### Bootstrap Elements
-- [[Buttons]]
-- [[Navigation Bar]]
-- [[Dropdowns]]
-- [[Tooltips]]
-- [[List Design]]
-- [[Table Design]]
-- [[Form Design]]
+### <h3 dir="rtl"> عناصر بوت استرپ <h3>
+<h6 dir="rtl"> - [[دکمه ها]] <h6>
+<h6 dir="rtl"> - [[نوار ناوبری]] <h6>
+<h6 dir="rtl"> - [[رها کردن]] <h6>
+<h6 dir="rtl"> - [[راهنمای ابزار]] <h6>
+<h6 dir="rtl"> - [[فهرست طراحی]] <h6>
+<h6 dir="rtl"> - [[طراحی جدول]] <h6>
+<h6 dir="rtl"> - [[طراحی فرم]] <h6>
+
+
+<h6 dir="rtl">  <h6>
+<h6 dir="rtl">  <h6>
+<h6 dir="rtl">  <h6>
+<h6 dir="rtl">  <h6>
 
 ### Advanced HTML Tutorials
 
